@@ -1,4 +1,3 @@
-ttfalse;
-lichaotrue;
-yuanruodingtrue;
-liucftrue;
+lichaoyes;
+yuanruodingyes;
+liucfyes;
