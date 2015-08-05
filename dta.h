@@ -1,4 +1,4 @@
-tt=false;
-lichao=true;
-yuanruoding=true;
-liucf=true;
+ttfalse;
+lichaotrue;
+yuanruodingtrue;
+liucftrue;
